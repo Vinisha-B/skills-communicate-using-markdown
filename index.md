@@ -1,2 +1,1 @@
-# <h1> This is vinisha
-# <h4> I am a CSE Student
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
